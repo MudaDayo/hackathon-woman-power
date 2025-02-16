@@ -9,10 +9,10 @@ How can we use digital tools, artificial intelligence, new technologies, etc. to
 
 ## Team
 
-# Howest Digital Arts and Entertainment:
+### Howest Digital Arts and Entertainment:
 Dan Chicu
 Milena Smyk
-# Rubika:
+### Rubika:
 Estelle Bouquot
 Solenn Laville
 
