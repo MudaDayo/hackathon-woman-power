@@ -21,10 +21,10 @@ If you used Miro, Figma or any other cloud based tools please put the links of t
 
 ## Links to the figma
 Figma prototype
-https://www.figma.com/design/kQxZ1lMOuoCSUs5xpM1u4m/HACKATHON?node-id=0-1&t=OQ24QpIPrLmqFj10-1
+https://www.figma.com/design/Eb8aEni1LEIn1SgUO0sOFM/iAmHer?node-id=0-1&t=zyhNHOJxVZrcryv6-1
 
 Figma of research
-https://www.figma.com/board/c1lrPZ9WbBBnaY0jdact1H/DECAT-X-HACKATHON?node-id=0-1&t=IyxcD1gD2pIGcSPq-1
+https://www.figma.com/board/bM6uyja98SizGGadHqxhF9/iAmHer-research?node-id=0-1&t=ef9dOZRa92Sw9oBa-1
 
 ## Context
 
