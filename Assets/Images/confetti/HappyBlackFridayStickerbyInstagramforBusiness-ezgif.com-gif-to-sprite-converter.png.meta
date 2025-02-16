@@ -1,0 +1,2430 @@
+fileFormatVersion: 2
+guid: cffda6155f7f8184595c229531ca66e4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9120
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd96ea2ae095eab40b4dda8a816f6eb9
+      internalID: 1381738513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 9120
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d035c1da2d3c544d871efe2653d4a0a
+      internalID: -1765576957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 9120
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718bbb1213f533e4ab64023afcf6bb35
+      internalID: -1946731897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 9120
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cdeeb93066cef46a19d8d19503c1ce
+      internalID: 1937385339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 9120
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d5a4b6476ef1d418f3adee8a5ccd87
+      internalID: -1373578753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8640
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880b05688012431429bb687103552e64
+      internalID: -1613256326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 8640
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a9d29d0ac1ddd44ba64bdce5617e5a
+      internalID: -808068684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 8640
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dca3dd04fee15d45bb2403d4710cc95
+      internalID: 494219486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 8640
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faab6879d7008dc49ac7099e0df76d4a
+      internalID: 1464015923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 8640
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3befbf71dbf3ad346a26a3e7c0795d3a
+      internalID: 836051128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8160
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19c5e24329fcfe4e8037cca20dc9cc0
+      internalID: -856445202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 8160
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0b582de4f563b4fac1584be19b1dee
+      internalID: -575283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_12
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 8160
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563a7c412451e594894e8be9aab4d5b8
+      internalID: 383394617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_13
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 8160
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d74133b8e5de3c4e966e01812995f7c
+      internalID: -1445915109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_14
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 8160
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe05cc60c1448643b2706247682706a
+      internalID: -1124571021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7680
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72bca54fcc9c58498dccacfdef7a9db
+      internalID: 996793213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 7680
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def7f40b7c1116942a9d2d381fc5c2b6
+      internalID: 189201589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_17
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 7680
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e2f6004174a1841bbf64ee69afecb0
+      internalID: 924879143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_18
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 7680
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc030726ccfc524ca6108645372b6a4
+      internalID: 1852331995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_19
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 7680
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b79da16b1751a14b974273cf7fcd563
+      internalID: 1118984397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7200
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d649f1b22cf5d4bb920eb1af640035
+      internalID: -1433967747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_21
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 7200
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3441979b336974ca2090767fa86b4c
+      internalID: 670850229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_22
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 7200
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df86c91693cb634185228b67856c21f
+      internalID: -460239311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_23
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 7200
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5e2da6911eb54438685153072c905d
+      internalID: 1009098974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_24
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 7200
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad361c13eb9227a4ca88f8ab26bcbd77
+      internalID: -254613070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6720
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cd496b974f3b045ad44c21e4416ba4
+      internalID: 678427860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_26
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 6720
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8236bf1f0a3aba40992c2e4c4993a13
+      internalID: 1541175465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_27
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 6720
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809f0f23a46b72847852afaae860b7ea
+      internalID: -264567273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_28
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 6720
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0c34326db7c2e4f8ddfa04a23826a4
+      internalID: 570515837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_29
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 6720
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe91030ee5816c40bc0873b538669ac
+      internalID: 265347708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6240
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4185c7555e868d47955947ccea247b8
+      internalID: -1607194407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_31
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 6240
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a04d46a376a2af4ea5031239169e9fc
+      internalID: 332496877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_32
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 6240
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769a81ac634a1dc4a9ed7f3fd89ecea7
+      internalID: 1559222938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_33
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 6240
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a821682e137a945b895faa4e4834be
+      internalID: -1443950570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_34
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 6240
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4bde28ab0a1a947b7862edb7e21146
+      internalID: 135512516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5760
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9222707aac177f408309da53a03dd37
+      internalID: 1318731394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_36
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 5760
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049944d52fad7604087d10b8aa689c08
+      internalID: 1748848040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_37
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 5760
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc9a8350d05008469045729a03f6f95
+      internalID: 151817221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_38
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 5760
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06b4e7e2e5fddf4d90d0c0e3b711890
+      internalID: 174161548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_39
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 5760
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81334c6003331b44fa2df0063170ed83
+      internalID: -1739281784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5280
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601920bbed1f59b488e2eaec39c3fa20
+      internalID: 1341890155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_41
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 5280
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0245fcaeb2ce5b1498ee4835fb09b3e4
+      internalID: 1068680177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_42
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 5280
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29089be546181904d992f7587800b56d
+      internalID: -2021952728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_43
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 5280
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20458bf25f171384ebb0514bd1c31f3f
+      internalID: -1752590364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_44
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 5280
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcea88cae19845f4c8a1eca926f358f7
+      internalID: 1160177855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d91d42e78345d446b4293f0eb5d93b6
+      internalID: -1920508083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_46
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 4800
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d472e6129bf1949b02ad7b0497ef4c
+      internalID: -1504181742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_47
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 4800
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb83df1ce5bcb44181c9773d0010b35
+      internalID: 1639609930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_48
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 4800
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdacee637ee60eb479fad5dbbf21caa2
+      internalID: -473794580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_49
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 4800
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014249632e0b8f94d8f1e1407e453cd3
+      internalID: -1601115076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7bc64c23e94d04fbbbbe001da15ac1
+      internalID: 1201955255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_51
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 4320
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15e5b154b07dc4459013e0befef5c83
+      internalID: -1340348724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_52
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 4320
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3dd9f312b641647906b8c205c00f24
+      internalID: 942581522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_53
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 4320
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa774409e6a3a46439a6b08739918539
+      internalID: -1296891935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_54
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 4320
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7265ece3134d3f9439ab54a599ce6f8f
+      internalID: 292342532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8189e8969725c6348af873f7de5c0566
+      internalID: 384164172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_56
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 3840
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d08fc385a814142a1c582c9e91211e
+      internalID: 1751482684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_57
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3840
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e20cda3679dfc4ea45ec46205ca26a
+      internalID: 1373708725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_58
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3840
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d874402ec3068742bff45764fbfc957
+      internalID: -1095837080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_59
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3840
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68000b2b835e9af4f85bed75feb6d0e7
+      internalID: -141886382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705ac966b3f999f489a7504ab262a586
+      internalID: 96774067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_61
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 3360
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f008de10627e7d645be8f1aae09b796c
+      internalID: 1330003978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_62
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3360
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f50e39e031793b4a99f65ff0b34ef47
+      internalID: 518491071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_63
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3360
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2c770ca06a0294a9fb7bf319042aee
+      internalID: 860532851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_64
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3360
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21b78ffcfe9a664b9a499f52f2da6c1
+      internalID: 1761324494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b08d025e6ae694bb2ad3d6ccf91a79
+      internalID: 347190291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_66
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2880
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8892fe4da3f1844bc1e02ab8ac0659
+      internalID: -2041438285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_67
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2880
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03655875c8a7cf46b632f47f7f820c6
+      internalID: -1256601290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_68
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2880
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d8cdcf97e5fc343a06c5ebe0494640
+      internalID: -1489818523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_69
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2880
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28491bbe3be81af419f4366b54ab9823
+      internalID: 1725030769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b419fd71331d0434cbaa551f6b73e4f4
+      internalID: 329015686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_71
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2400
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461d792ae5f1cd844b988e89dceec3b6
+      internalID: 1712366643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_72
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2400
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78af75bfe86a5e54d906d7b3b0af3675
+      internalID: -496307881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_73
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2400
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df2a4debb7c4124cab572188a9d91cc
+      internalID: -1293170830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_74
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2400
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cae8fc441db5804085a20d71ad1d036
+      internalID: -739900036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03ea86065f27b542bad5277498de57e
+      internalID: -504949442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_76
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1920
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e506f866aa12f5c429c7f2e04eec8ba2
+      internalID: -1762881806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_77
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1920
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890b105f2e9770742b71757602eddfe3
+      internalID: -1425209984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_78
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1920
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0585ad21d0c350a4a8aabece61d01aca
+      internalID: 1474663745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_79
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1920
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e01d9da451a8542b093bf909096e27
+      internalID: -315483983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c8810c6681a56488481af6b900cc0b
+      internalID: -1561565343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_81
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1440
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad76a0968b08d84b9297cd2a91ceadc
+      internalID: -366629598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_82
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1440
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2b9a764304a054293e89b4fb1413de
+      internalID: -1920056964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_83
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1440
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3e28e26cc8b5544a282a046b65751b
+      internalID: -383921620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_84
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1440
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53960587d1d3b74ba40b3b9cd066f46
+      internalID: 473273541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c218719c06999489c89854ecc39320
+      internalID: 1301216002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_86
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 960
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09060d248e906bc46bf31b799c3e6fa5
+      internalID: 1419077343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_87
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 960
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce61a76c39798504fa48897866cd0dd3
+      internalID: 789256570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_88
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 960
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698245b4fa9498b418a0773fe53b150a
+      internalID: -1794244334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_89
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 960
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa7ea69eaaf6f74c8ff39fda551965a
+      internalID: -625593517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b7a571d7d7d484f89df78af92a88ac
+      internalID: -1330730398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_91
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 480
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc40de7c4edcaa24dac7c4fd90484543
+      internalID: -2111246317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_92
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 480
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ef54358c808ad42b9a4ac1ea1be9d8
+      internalID: -615650377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_93
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 480
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431017ca947732a41a96c9089a65dcfa
+      internalID: 990707873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_94
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 480
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aff54d716c061d4ca53869d27bd1ed4
+      internalID: -1181232562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4821e4dbbb1078498ea87320bdd4812
+      internalID: -892529863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_96
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf88dc0dd860c9c429abc3e45d6442e0
+      internalID: -1874266234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_97
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc3572e272e6ba4fa94a59413a0fc87
+      internalID: -2029877942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_98
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f28a6c082f90343a3847e725243615
+      internalID: -677807341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_99
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 270
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0693992fe7b27e2418799a4322c545d6
+      internalID: 1316906361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 17ea05ebd0974a64a8eff51f5e816249
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_0: 1381738513
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_1: -1765576957
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_10: -856445202
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_11: -575283
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_12: 383394617
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_13: -1445915109
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_14: -1124571021
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_15: 996793213
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_16: 189201589
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_17: 924879143
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_18: 1852331995
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_19: 1118984397
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_2: -1946731897
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_20: -1433967747
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_21: 670850229
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_22: -460239311
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_23: 1009098974
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_24: -254613070
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_25: 678427860
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_26: 1541175465
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_27: -264567273
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_28: 570515837
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_29: 265347708
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_3: 1937385339
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_30: -1607194407
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_31: 332496877
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_32: 1559222938
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_33: -1443950570
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_34: 135512516
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_35: 1318731394
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_36: 1748848040
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_37: 151817221
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_38: 174161548
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_39: -1739281784
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_4: -1373578753
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_40: 1341890155
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_41: 1068680177
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_42: -2021952728
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_43: -1752590364
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_44: 1160177855
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_45: -1920508083
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_46: -1504181742
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_47: 1639609930
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_48: -473794580
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_49: -1601115076
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_5: -1613256326
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_50: 1201955255
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_51: -1340348724
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_52: 942581522
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_53: -1296891935
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_54: 292342532
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_55: 384164172
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_56: 1751482684
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_57: 1373708725
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_58: -1095837080
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_59: -141886382
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_6: -808068684
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_60: 96774067
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_61: 1330003978
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_62: 518491071
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_63: 860532851
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_64: 1761324494
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_65: 347190291
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_66: -2041438285
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_67: -1256601290
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_68: -1489818523
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_69: 1725030769
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_7: 494219486
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_70: 329015686
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_71: 1712366643
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_72: -496307881
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_73: -1293170830
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_74: -739900036
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_75: -504949442
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_76: -1762881806
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_77: -1425209984
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_78: 1474663745
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_79: -315483983
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_8: 1464015923
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_80: -1561565343
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_81: -366629598
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_82: -1920056964
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_83: -383921620
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_84: 473273541
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_85: 1301216002
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_86: 1419077343
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_87: 789256570
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_88: -1794244334
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_89: -625593517
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_9: 836051128
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_90: -1330730398
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_91: -2111246317
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_92: -615650377
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_93: 990707873
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_94: -1181232562
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_95: -892529863
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_96: -1874266234
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_97: -2029877942
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_98: -677807341
+      HappyBlackFridayStickerbyInstagramforBusiness-ezgif.com-gif-to-sprite-converter_99: 1316906361
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
