@@ -1,6 +1,6 @@
 # Hackathon Template Folder and README
 
-# Name of the Project
+# I Am Her
 
 (Put your logo here if you have one )
 
