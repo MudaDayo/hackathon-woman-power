@@ -5,12 +5,16 @@
 (Put your logo here if you have one )
 
 ## Pitch of the project
-
-(context, problematic, solution, 200 words)
+How can we use digital tools, artificial intelligence, new technologies, etc. to remove the obstacles to diversity in engineering schools and high-responsibility positions at Decathlon?
 
 ## Team
 
-Names + organisation + picture
+### Howest Digital Arts and Entertainment:
+Dan Chicu,
+Milena Smyk
+### Rubika:
+Estelle Bouquot,
+Solenn Laville
 
 ## Structure of the folder
 
