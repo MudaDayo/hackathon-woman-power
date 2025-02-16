@@ -710,7 +710,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8828612124751100114, guid: 2e5a0bb0ae2c1f1468a3a1ffee16e5c2, type: 3}
       propertyPath: sceneName
-      value: Results_Chat
+      value: Home
       objectReference: {fileID: 0}
     - target: {fileID: 9085839708088887939, guid: 2e5a0bb0ae2c1f1468a3a1ffee16e5c2, type: 3}
       propertyPath: m_Name
@@ -1040,7 +1040,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1540976608}
   m_HandleRect: {fileID: 1540976607}
   m_Direction: 0
-  m_Value: 1
+  m_Value: 0
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -1203,7 +1203,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1440102630}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.14107107
+  m_Size: 0.1410711
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
