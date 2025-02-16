@@ -13,7 +13,7 @@ How can we use digital tools, artificial intelligence, new technologies, etc. to
 Dan Chicu,
 Milena Smyk
 ### Rubika ISD :
-Estelle Bouquot 3rd year Product Design student
+Estelle Bouquot 3rd year Product Design student,
 Solenn Laville 2nd year Transportation Design student
 
 ## Structure of the folder
