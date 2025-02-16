@@ -1,5 +1,3 @@
-# Hackathon Template Folder and README
-
 # i Am Her
 Explanation of the concept:
 I Am Her is an app that helps young women to build their own dream as an engineer or other high responsability jobs. With the app, it helps them to create their future self in the professional world. Thanks to a personalized profile through the questionnaire you can navigate through the differents jobs and schools proposed.
