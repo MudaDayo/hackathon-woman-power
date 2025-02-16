@@ -28,5 +28,7 @@ If you used Miro, Figma or any other cloud based tools please put the links of t
 This project was developed during CrossTechXperience Interreg project ([http://www.crosstechxperience.eu](http://www.crosstechxperience.eu)) Hackathon #1.
 This hackathon took place at Rubika ([https://rubika-edu.com/](https://rubika-edu.com/)) the 15th and 16th of February 2025.
 
+## Links to the figma
+https://www.figma.com/design/kQxZ1lMOuoCSUs5xpM1u4m/HACKATHON?node-id=0-1&t=OQ24QpIPrLmqFj10-1
 
 ![logo CrossTechX rvb-150](https://github.com/user-attachments/assets/b2c622b3-c234-462a-a646-c7f3380c91bd)
