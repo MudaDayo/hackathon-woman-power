@@ -1,19 +1,19 @@
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
-public class SnapToItem : MonoBehaviour
+public class SnapToItem : MonoBehaviour, IBeginDragHandler, IEndDragHandler
 {
     public ScrollRect scrollRect;
     public RectTransform contentPanel, sampleListItem;
 
-    public HorizontalLayoutGroup hlg;
+    public VerticalLayoutGroup vlg;
 
-    public TMP_Text NameLabel;
-
-    public string[] names;
+    public float minSpeed;
 
     private bool isSnapped = false;
+    private bool isDragging = false;
 
     public float snapForce, snapSpeed = 10;
 
@@ -26,19 +26,36 @@ public class SnapToItem : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        int currentItem = Mathf.RoundToInt((0-contentPanel.localPosition.y/(sampleListItem.rect.height + hlg.spacing)));
-
-        if(scrollRect.velocity.magnitude < 200 && !isSnapped){
-            scrollRect.velocity = Vector2.zero;
-            snapSpeed += snapForce * Time.deltaTime;
-            contentPanel.localPosition = new Vector3(contentPanel.localPosition.x, Mathf.MoveTowards(contentPanel.localPosition.y, 0-currentItem * (sampleListItem.rect.height + hlg.spacing), snapSpeed), contentPanel.localPosition.z);
-            if(contentPanel.localPosition.x == 0-currentItem * (sampleListItem.rect.height + hlg.spacing)){
-                isSnapped = true;
-            }
+        if (scrollRect.velocity.magnitude < minSpeed && !isSnapped && !isDragging)
+        {
+            SnapToClosestItem();
         }
-        if(scrollRect.velocity.magnitude > 200){
+        if (scrollRect.velocity.magnitude > minSpeed)
+        {
             isSnapped = false;
-            snapSpeed = 0;
+        }
+    }
+
+    public void OnBeginDrag(PointerEventData eventData)
+    {
+        isSnapped = false;
+        isDragging = true;
+    }
+
+    public void OnEndDrag(PointerEventData eventData)
+    {
+        isDragging = false;
+        SnapToClosestItem();
+    }
+
+    private void SnapToClosestItem()
+    {
+        int currentItem = Mathf.RoundToInt((0 - contentPanel.localPosition.y / (sampleListItem.rect.height + vlg.spacing)));
+        scrollRect.velocity = Vector2.zero;
+        contentPanel.localPosition = new Vector3(contentPanel.localPosition.x, Mathf.MoveTowards(contentPanel.localPosition.y, 0 - currentItem * (sampleListItem.rect.height + vlg.spacing), snapSpeed * Time.deltaTime), contentPanel.localPosition.z);
+        if (Mathf.Approximately(contentPanel.localPosition.y, 0 - currentItem * (sampleListItem.rect.height + vlg.spacing)))
+        {
+            isSnapped = true;
         }
     }
 }
