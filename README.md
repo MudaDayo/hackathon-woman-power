@@ -10,10 +10,10 @@ How can we use digital tools, artificial intelligence, new technologies, etc. to
 ## Team
 
 ### Howest Digital Arts and Entertainment:
-Dan Chicu
+Dan Chicu,
 Milena Smyk
 ### Rubika:
-Estelle Bouquot
+Estelle Bouquot,
 Solenn Laville
 
 ## Structure of the folder
